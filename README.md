@@ -21,19 +21,6 @@ By building these systems from scratch, we aim to gain a deeper understanding of
 * Simple, modular code to encourage experimentation and learning
 * Focus on clarity and understanding over performance
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository_url>
-   ```
-2. Install dependencies (if any):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Explore algorithms in the `/src` or `/notebooks` directory.
 
 ## Roadmap
 
