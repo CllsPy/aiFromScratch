@@ -31,7 +31,7 @@ By building these systems from scratch, we aim to gain a deeper understanding of
 * [ ] Convolutional neural networks
 * [ ] Reinforcement learning basics
 * [ ] Optimization algorithms (SGD, Adam, etc.)
-* [ x ] Attention Mechanism
-* [ x ] GPT
-* [ x ] Ensemble (Bagging)
+* [X] Attention Mechanism
+* [X] GPT
+* [X] Ensemble (Bagging)
 
